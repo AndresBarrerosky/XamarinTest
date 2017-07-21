@@ -1,5 +1,3 @@
 # XamarinTest
 
-Cambio en esta vuelta
-
-Cambio desde la página
+Now im trying to connect Visual Studio to GitHub
